@@ -1,0 +1,6 @@
+#ignore large data files
+Database/job_postings.csv
+#Ignore images
+images/
+#Ignore powerpoint files
+Job Posting Report.pptx
